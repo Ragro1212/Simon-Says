@@ -1,0 +1,5 @@
+Tomasz,5
+highest,4
+olek,2
+fd,1
+dsa,1
